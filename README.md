@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with AWS, Docker.
 - 💬 Ask me about node.js and data structures and algorithms.
-<!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to play video games.
 
+<!-- - 📫 How to reach me:  -->
