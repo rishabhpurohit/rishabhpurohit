@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Graph Algorithms and Deep Learning.
+<!-- - 🌱 I’m currently learning Graph Algorithms and Deep Learning.
 - 🤔 I’m looking for help with AWS & Docker.
 - 💬 Ask me about node.js and data structures and algorithms.
 - 🔭 I’m currently working on GIS projects.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to play video games.
+- 😄 Pronouns: He/His -->
+- ⚡ Fun fact: I love playing video games.
 
 <!-- - 📫 How to reach me:  -->
 <!-- - 👯 I’m looking to collaborate on Web Development Projects -->
