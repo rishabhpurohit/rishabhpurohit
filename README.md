@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about node.js and data structures and algorithms.
 - 🔭 I’m currently working on GIS projects.
 - 😄 Pronouns: He/His -->
-- ⚡ Fun fact: I love playing video games.
+- ⚡ Fun fact: I love playing games.
 
 <!-- - 📫 How to reach me:  -->
 <!-- - 👯 I’m looking to collaborate on Web Development Projects -->
